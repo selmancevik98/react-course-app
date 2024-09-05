@@ -1,0 +1,31 @@
+.course {
+    border: 2px solid lightblue;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.course_container {
+    width: 330px;
+    height: auto;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+.course_image {
+    align-items: center;
+}
+
+.price {
+    text-align: right;
+    font-weight: bold;
+    padding-right: 1px;
+}
